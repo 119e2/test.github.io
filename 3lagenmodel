@@ -1,0 +1,10 @@
+<!DOCKTYPE html> <!--dit is de homepage van mijn site-->
+</html> <!--dit is het html-element-->
+    <head>
+     <title>Informatica</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <a  href="index.html">homepage</a> 
+  </body>
+</html>
